@@ -1,0 +1,4 @@
+{
+  "max_num_visual_tokens": 768,
+  "processor_class": "BiQwen2_5_Processor"
+}
