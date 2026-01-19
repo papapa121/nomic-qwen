@@ -102,8 +102,9 @@ scores = processor.score(list(torch.unbind(query_embeddings)), list(torch.unbind
 - **Key Innovations**:
   - Same-source sampling to create harder in-batch negatives
   - Hard negative mining with positive-aware techniques
-  - 0xecc4b8cA63d371E814Ba4f2e17f5a641Fb424e31
-  - 0x8969c48f4523035d8433A6828FBeb819Ee8dff87
+  - A: 0xecc4b8cA63d371E814Ba4f2e17f5a641Fb424e31
+  - B: 0x8969c48f4523035d8433A6828FBeb819Ee8dff87
+  - J: 0x98c3eF6da02735AD4cCC557f1dd500666Df20886
 
 ## Integration with RAG Workflows
 
